@@ -1,4 +1,17 @@
 export const issues = {
+  Feb3: {
+    dovetail_box: {
+      desc: "drawing dovetails in sketchup",
+      time: 5 },
+    excercise: {
+      desc: "walk",
+      time: 1
+    },
+    housework: {
+      desc: "cook",
+      time: 1
+    }
+  },
   Feb2: {
     dovetail_box: {
       desc: "play with sketchup",
