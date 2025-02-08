@@ -1,4 +1,14 @@
 export const issues = {
+  Feb8: {
+    pot_lid_holder: {
+      desc: "watch some videos",
+      time: 3
+    },
+    housework: {
+      desc: "cook and do the laundry",
+      time: 2
+    }
+  },
   Feb7: {
     lid: {
       desc: "polish and paint the lid, paint the spatula",
