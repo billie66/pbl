@@ -1,4 +1,42 @@
 export const issues = {
+  Mar2: {
+    table_with_drawer: {
+      desc: "play with sketchup",
+      time: 3
+    },
+    draw_bowser_jr: {
+      desc: "draw with Elon",
+      time: 1
+    }
+    housework: {
+      desc: "cook and clean",
+      time: 2
+    }
+  },
+  Mar1: {
+    housework: {
+      desc: "cook and clean",
+      time: 5
+    }
+  },
+  Feb28: {
+    spatula: {
+      desc: "cut wood to make a spatula",
+      time: 2
+    },
+  },
+  Feb27: {
+    cr_website: {
+      desc: "change style and deploy",
+      time: 3
+    },
+  },
+  Feb26: {
+    cr_website: {
+      desc: "change style",
+      time: 2
+    },
+  },
   Feb8: {
     pot_lid_holder: {
       desc: "watch some videos",
