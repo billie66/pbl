@@ -1,10 +1,34 @@
 export const issues = {
+  Mar7: {
+    sketchup: {
+      desc: "play with sketchup",
+      time: 2
+    },
+    draw: {
+      desc: "draw with Elon",
+      time: 1
+    },
+    housework: {
+      desc: "cook",
+      time: 1
+    }
+  },
+  Mar6: {
+    sketchup: {
+      desc: "play with sketchup",
+      time: 3
+    },
+    housework: {
+      desc: "cook and clean",
+      time: 2
+    }
+  },
   Mar5: {
     sketchup: {
       desc: "play with sketchup",
       time: 2
     },
-    draw_bowser_jr: {
+    draw: {
       desc: "draw with Elon",
       time: 1
     }
@@ -18,7 +42,7 @@ export const issues = {
       desc: "play with sketchup",
       time: 2
     },
-    draw_bowser_jr: {
+    draw: {
       desc: "draw with Elon",
       time: 1
     }
