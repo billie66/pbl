@@ -1,4 +1,28 @@
 export const issues = {
+  Mar9: {
+    sketchup: {
+      desc: "draw a drawer",
+      time: 3
+    },
+    exercise: {
+      desc: "do exercise",
+      time: 2
+    },
+    housework: {
+      desc: "cook and clean",
+      time: 1
+    }
+  },
+  Mar8: {
+    sketchup: {
+      desc: "draw a table",
+      time: 2
+    },
+    housework: {
+      desc: "cook and clean",
+      time: 2
+    }
+  },
   Mar7: {
     sketchup: {
       desc: "play with sketchup",
